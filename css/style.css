@@ -118,7 +118,7 @@ img {
 #news .page-title {
   color: #ffffff;
   text-align: center;
-  margin-top: 280px;
+  
 }
 /* フッター
 ------------------------------- */
@@ -240,7 +240,7 @@ aside p {
 }
 .menu-content .page-title {
   text-align: center;
-  margin-top: 350px;
+ 
 }
 .menu-content p {
   font-size: 1.125rem;
@@ -288,7 +288,7 @@ aside p {
 
 .member-content .page-title {
   text-align: center;
-  margin-top: 350px;
+
 }
 
 .member-content p {
@@ -321,6 +321,8 @@ aside p {
   background-image: url(../image/contact.jpeg);
   min-height: 110vh;
 }
+.contact-content .page-title {
+  text-align: center;
 
 /* フォーム */
 form div {
