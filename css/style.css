@@ -414,6 +414,11 @@ iframe {
 /*モバイル版*/
 
 @media (max-width : 600px ){
+  .page-header {
+    flex-direction: column;
+    align-items: center;
+  }
+  
   .big-box {
     grid-column: auto;
     grid-row: auto;
